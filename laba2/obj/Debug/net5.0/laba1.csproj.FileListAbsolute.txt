@@ -1,0 +1,15 @@
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/laba1.deps.json
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/laba1.runtimeconfig.json
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/laba1.runtimeconfig.dev.json
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/laba1.dll
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/ref/laba1.dll
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/bin/Debug/net5.0/laba1.pdb
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.csprojAssemblyReference.cache
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.AssemblyInfoInputs.cache
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.AssemblyInfo.cs
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.csproj.CoreCompileInputs.cache
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.dll
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/ref/laba1.dll
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.pdb
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/Debug/net5.0/laba1.genruntimeconfig.cache

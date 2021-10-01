@@ -7,12 +7,11 @@ namespace laba1
     {
         static void Main(string[] args)
         {
-            //task1();
-            //task2();
-            //task3();
-            //task4();
+            task1();
+            task2();
+            task3();
+            task4();
 
-            /*
 
             (int, int, int, char) task5(int[] arr, string str)
             {
@@ -22,8 +21,6 @@ namespace laba1
             string txt = "hello";
 
             Console.WriteLine(task5(mas, txt));
-
-            */
 
             task6();
         }
@@ -47,25 +44,10 @@ namespace laba1
             object o = 3.14;
             dynamic p = "dinamic";
 
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-            Console.WriteLine(c);
-            Console.WriteLine(d);
-            Console.WriteLine(e);
-            Console.WriteLine(f);
-            Console.WriteLine(g);
-            Console.WriteLine(h);
-            Console.WriteLine(i);
-            Console.WriteLine(j);
-            Console.WriteLine(k);
-            Console.WriteLine(l);
-            Console.WriteLine(m);
+            Console.WriteLine("введите строку для вывода");
             n = Console.ReadLine();
-            Console.WriteLine(n);
-            Console.WriteLine(o);
-            Console.WriteLine(p);
+            Console.WriteLine($"{a}\n{b}\n{c}\n{d}\n{e}\n{f}\n{g}\n{h}\n{i}\n{j}\n{k}\n{l}\n{m}\n{n}\n{o}\n{p}");
             Console.WriteLine("----------Conversions---------");
-
 
             int intnum;
             byte con1 = 0;
@@ -96,7 +78,7 @@ namespace laba1
             Console.WriteLine(con4);
 
 
-            char charnum = '3';
+            char charnum = 'd';
             int charToInt = charnum;
 
             float flnum = 3.14f;
@@ -111,26 +93,24 @@ namespace laba1
             byte bytenum = 13;
             decimal byteToDecimal = bytenum;
 
-            Console.WriteLine(charToInt);
-            Console.WriteLine(flToDouble);
-            Console.WriteLine(longToFloat);
-            Console.WriteLine(ushortToUint);
-            Console.WriteLine(byteToDecimal);
+            Console.WriteLine("charToInt " + charToInt);
+            Console.WriteLine("flToDouble " + flToDouble);
+            Console.WriteLine("longToFloat " + longToFloat);
+            Console.WriteLine("ushortToUint " + ushortToUint);
+            Console.WriteLine("byteToDecimal " + byteToDecimal);
 
             int pack = 1111;
             Object obj = pack;
             int unpack = (int)obj;
             Console.WriteLine(unpack);
 
-            string[] words = { "apple", "strawberry", "grape", "peach", "banana" };
-            var wordQuery = from word in words
-                            where word[0] == 'g'
-                            select word;
 
-            foreach (string s in wordQuery)
-            {
-                Console.WriteLine(s);
-            }
+            var Var1 = 12;
+            var Var2 = "abc";
+            Console.WriteLine("Var1 - {0}\nVar2 - {1}", Var1.GetType(), Var2.GetType());
+
+
+
 
             int? x = null;
             if (x.HasValue)
@@ -141,18 +121,25 @@ namespace laba1
         }
         static void task2()
         {
-            string AAA = "AAA";
-            string aaa = "aaa";
+            string AAA = "assdfsdfdd";
+            string aaa = "aad";
+            var Coomp = AAA.CompareTo(aaa);
             bool aA = (AAA == aaa);
-            Console.WriteLine(aA);
+            AAA.Equals("aad");
+            Console.WriteLine("------------  " + Coomp);
 
             string s1 = "hello";
             string s2 = "world";
-            string s3 = s1 + " " + s2; // результат: строка "hello world"
-            string s4 = String.Concat(s3, "!!!"); // результат: строка "hello world!!!"
+            string s3 = s1 + " " + s2;
+            string s4 = String.Concat(s3, "!!!");
             Console.WriteLine(s4);
 
             s2 = s1;
+            s2 = "hi";
+            Console.WriteLine("COPY");
+            Console.WriteLine(s1);
+            Console.WriteLine(s2);
+            Console.WriteLine();
 
             string substr = s4.Substring(6);
             Console.WriteLine(substr);
@@ -171,8 +158,10 @@ namespace laba1
             s4 = s4.Remove(s4.Length - 3);
             Console.WriteLine(s4);
 
-            Laba laba = new Laba { number = 1 };
-            Console.WriteLine($"laboratory number {laba.number} in progress");
+            Console.WriteLine();
+
+            int number = 2;
+            Console.WriteLine($"laboratory number {number} in progress");
 
             s1 = "abcd";
             s2 = "";
@@ -235,12 +224,12 @@ namespace laba1
 
 
 
-            int arrrows = 3;
+            int arrRows = 3;
             int temp = 3;
-            int[][] intarr = new int[arrrows][];
+            int[][] intarr = new int[arrRows][];
             var rand = new Random();
 
-            for (int i = 0; i < arrrows; i++)
+            for (int i = 0; i < arrRows; i++)
             {
 
                 intarr[i] = new int[temp];
@@ -253,8 +242,8 @@ namespace laba1
                 temp = temp + 1;
                 Console.WriteLine();
             }
-            var implint = new[] { 1, 10, 100, 1000 }; // int[]
-            var implstr = new[] { "hello", null, "world" }; // string[]
+            var implint = new[] { 1, 10, 100, 1000 };
+            var implstr = new[] { "hello", null, "world" };
             Console.WriteLine(implint);
             Console.WriteLine(implstr);
 
@@ -279,7 +268,6 @@ namespace laba1
 
             Console.WriteLine(tuple == tuple2);
         }
-
         static void task6()
         {
 
@@ -311,7 +299,6 @@ namespace laba1
 
             }
 
-
             check();
             uncheck();
         }
@@ -319,8 +306,5 @@ namespace laba1
 
     }
 }
-class Laba
-{
-    public int number { get; set; }
-}
+
 

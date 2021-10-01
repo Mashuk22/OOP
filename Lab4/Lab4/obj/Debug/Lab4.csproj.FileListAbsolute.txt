@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\Lab4\Lab4\obj\Debug\Lab4.pdb

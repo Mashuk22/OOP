@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/laba1.csproj",
+      "projectUniqueName": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba2/laba1.csproj",
       "projectName": "laba1",
-      "projectPath": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/laba1.csproj",
+      "projectPath": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba2/laba1.csproj",
       "packagesPath": "/Users/ivanmashuk/.nuget/packages/",
-      "outputPath": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/laba1/obj/",
+      "outputPath": "/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivanmashuk/.nuget/NuGet/NuGet.Config"

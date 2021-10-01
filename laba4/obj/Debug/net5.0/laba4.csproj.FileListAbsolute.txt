@@ -1,0 +1,5 @@
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba4/obj/Debug/net5.0/laba4.csprojAssemblyReference.cache
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba4/obj/Debug/net5.0/laba4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba4/obj/Debug/net5.0/laba4.AssemblyInfoInputs.cache
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba4/obj/Debug/net5.0/laba4.AssemblyInfo.cs
+/Users/ivanmashuk/Documents/Unik/ООП/Labs/OOP/laba4/obj/Debug/net5.0/laba4.csproj.CoreCompileInputs.cache

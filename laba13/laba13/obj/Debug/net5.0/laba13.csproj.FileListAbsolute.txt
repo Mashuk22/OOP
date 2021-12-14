@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.AssemblyInfo.cs
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.exe
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.deps.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.runtimeconfig.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.runtimeconfig.dev.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\ref\laba13.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\bin\Debug\net5.0\laba13.pdb
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\ref\laba13.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.pdb
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\laba13\laba13\obj\Debug\net5.0\laba13.genruntimeconfig.cache

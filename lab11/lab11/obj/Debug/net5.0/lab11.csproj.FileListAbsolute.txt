@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.exe
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.deps.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.dev.json
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\ref\lab11.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\bin\Debug\net5.0\lab11.pdb
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfo.cs
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\ref\lab11.dll
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.pdb
+\\Mac\Home\Documents\Unik\ООП\Labs\OOP\lab11\lab11\obj\Debug\net5.0\lab11.genruntimeconfig.cache
